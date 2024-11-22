@@ -31,8 +31,8 @@ We need to store all **Account History** records on our personal budget from mon
 
 ## Data Once Inputed to Postgres
 |Reference|Report Date|Group|Subgroup|Type|ChesterPA|AllenTX|AtlantaGA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|BR54898847|05/23/2024|AZ/ SYNCB/PPMC|000|JSON|JSON|JSON|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|BR54898847|05/23/2024|AZ/ SYNCB/PPMC|000|TYPE|JSON|JSON|JSON|
 
 ## Screenshot of Reference Table
 ![Table Appears in HTML](accounthistory_reference.png?raw=true "Table Appears in HTML")
