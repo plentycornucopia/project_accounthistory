@@ -27,7 +27,7 @@ We need to store all **Account History** records on our personal budget from mon
 ***postgres db available upon request
 
 ## Screenshot of Data Table in HTML
-![Table Appears in HTML](file%20to%20be%20parsed-%20accounthistory.png?raw=true "Table Appears in HTML")
+![Table Appears in HTML](file%20to%20be%20parsed-%20account%20history.png?raw=true "Table Appears in HTML")
 
 ## Data Once Inputed to Postgres
 |Reference|Report Date|Furnisher|Account|Category|ChesterPA|AllenTX|AtlantaGA|
