@@ -15,7 +15,7 @@ We need to store all **Account History** records on our personal budget from mon
 
 |Reference|Report Date|Furnisher|Account|Category|ChesterPA|AllenTX|AtlantaGA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|*VARCHAR(9)|*MM/DD/YYYY|VARCHAR(255)|VARCHAR(255)|VARCHAR(255)|VARCHAR(255)|VARCHAR(255)|VARCHAR(255)|
+|Reference column value will vary per .HTML file VARCHAR(30)|Report Date column value will vary per .HTML file (TIMESTAMP)|Furnisher column value will vary per record VARCHAR(255)|Category column value will always be ‘000’ for now  VARCHAR(3)|Account column value will vary per record VARCHAR(255)|ChesterPA column value will vary per record VARCHAR(255)|AllenTX column value will vary per record VARCHAR(255)|AtlantaGA column value will vary per record VARCHAR(255)|
 
 * From month to month we will not know how many inquiry records we'll have. Could be 1. Could 30. Could be 0.
 * If 0, no record should be created. If ≤1, then create the corresponding record(s) in the DB.
